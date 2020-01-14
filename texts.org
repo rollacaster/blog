@@ -1,0 +1,10 @@
+* Welcome
+Hi 👋
+
+here's Thomas welcome to my website about the technical part of my life. I work as a Software Engineer at Comsysto Reply where I spend most of my time with Frontend Development in JavaScript.
+
+I spend most of my time developing with Emacs, and I have spent a questionable amount of my life configuring it.
+
+Functional, dynamic programming languages are the ones I enjoy the most, so I like to work with Clojure or JavaScript. I also have some experience with Elm, Java and of course elisp.
+
+On this website you can see all the work I did which is available publicly.

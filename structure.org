@@ -1,0 +1,23 @@
+* Inspiration
++ https://dribbble.com/shots/2020599-Travel-Blog-Hero-Exploration
++ https://dribbble.com/shots/3912289-Lifestyle-Blog
+* Thomas Sojka
+** Nav
+*** Blog
+**** Introducing elcontext
+**** Putting in overtime with Elm
+**** Cross Stack JavaScript with React
+*** About me
++ Technical
++ comSysto
++ JavaScript
++ Emacs
++ FP
+*** Projects
+**** https://github.com/rollacaster/elcontext
+**** https://github.com/rollacaster/costa
+**** https://github.com/rollacaster/react-animated-donut
+*** Talks
+**** https://www.youtube.com/watch?v=ae_3svi5Eg0
+*** Contact
++ thomas@sojka.tech
